@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bi bi-instagram",
+        "tooltip": "Instagram: @miusuario",
+        "link": "https://instagram.com/miusuario"
+    },
+    {
+        "icon": "bi bi-facebook",
+        "tooltip": "Facebook: Mi Nombre",
+        "link": "https://facebook.com/minombre"
+    },
+    {
+        "icon": "bi bi-envelope",
+        "tooltip": "Correo: micorreo@gmail.com",
+        "link": "mailto:micorreo@gmail.com"
+    },
+    {
+        "icon": "bi bi-whatsapp",
+        "tooltip": "WhatsApp: +123 456 7890",
+        "link": "https://wa.me/1234567890"
+    }
+]

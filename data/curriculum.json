@@ -1,0 +1,32 @@
+{
+  "profilePic": "img/foto.jpg",
+  "name": "Sundermann Mauricio",
+  "position": "Soporte técnico en el area de tecnologías celulares",
+  "email": "mauriciosundermann@gmail.com",
+  "phone": "+549 260 4354219",
+  "description": "Descripción breve sobre ti o tus objetivos.",
+  "experience": [
+    {
+      "jobTitle": "Puesto de Trabajo",
+      "company": "Nombre de la Empresa",
+      "dates": "Mes/Año - Mes/Año",
+      "responsibilities": [
+        "Responsabilidad o logro 1.",
+        "Responsabilidad o logro 2.",
+        "Responsabilidad o logro 3."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Título o Certificación",
+      "institution": "Nombre de la Institución",
+      "date": "Mes/Año"
+    }
+  ],
+  "skills": [
+    "Habilidad 1",
+    "Habilidad 2",
+    "Habilidad 3"
+  ]
+}
