@@ -18,10 +18,6 @@
         <img src="https://via.placeholder.com/100" alt="Foto o Logo" id="profile-pic">
         <h1 id="name"></h1>
         <p id="position"></p>
-        <p>
-            <strong>Email:</strong> <span id="email"></span> |
-            <strong>Teléfono:</strong> <span id="phone"></span>
-        </p>
 
         <!-- Barra de Redes Sociales -->
         <div class="social-bar" id="social-bar"></div>
@@ -58,6 +54,11 @@
         </main>
     </div>
 
+    <!-- Pie de página -->
+    <footer>
+        <p>Email: <span id="footer-email"></span> | Teléfono: <span id="footer-phone"></span></p>
+    </footer>
+
     <!-- JavaScript para cargar el JSON -->
     <script>
         document.addEventListener("DOMContentLoaded", () => {
@@ -73,9 +74,9 @@
                     // Información principal
                     document.getElementById("name").textContent = data.name;
                     document.getElementById("position").textContent = data.position;
-                    document.getElementById("email").textContent = data.email;
-                    document.getElementById("phone").textContent = data.phone;
                     document.getElementById("description").textContent = data.description;
+                    document.getElementById("footer-email").textContent = data.footeremail;
+                    document.getElementById("footer-phone").textContent=data.footertelefono;
 
                     // Experiencia laboral
                     const experienceSection = document.getElementById("experience");

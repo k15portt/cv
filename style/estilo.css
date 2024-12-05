@@ -45,7 +45,7 @@ body {
     max-width: 900px;
     margin: 150px auto; /* Margen ajustado para header fijo */
     box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
-    margin-top: 275px;
+    margin-top: 325px;
 }
 
 .section-title {
@@ -120,4 +120,32 @@ body {
 .social-bar .social-icon:hover .tooltip {
     visibility: visible;
     opacity: 1;
+}
+
+footer {
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    width: 100%;
+    margin-top: auto;
+}
+
+footer img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #f8f9fa;
+}
+
+footer p {
+    margin: 10px 0 5px;
+    font-size: 0.9rem;
+    color: #ddd;
+}
+
+footer strong {
+    color: #fff;
 }

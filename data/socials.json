@@ -1,22 +1,22 @@
 [
     {
         "icon": "bi bi-instagram",
-        "tooltip": "Instagram: @miusuario",
-        "link": "https://instagram.com/miusuario"
+        "tooltip": "Instagram: @mauri_gug26",
+        "link": "https://instagram.com/mauri_gug26"
     },
     {
         "icon": "bi bi-facebook",
-        "tooltip": "Facebook: Mi Nombre",
-        "link": "https://facebook.com/minombre"
+        "tooltip": "Facebook: Sundermann Mauricio",
+        "link": "https://facebook.com/mauricio.sundermann"
     },
     {
         "icon": "bi bi-envelope",
-        "tooltip": "Correo: micorreo@gmail.com",
-        "link": "mailto:micorreo@gmail.com"
+        "tooltip": "Correo: mauriciosundermann@gmail.com",
+        "link": "mailto:mauriciosundermann@gmail.com"
     },
     {
         "icon": "bi bi-whatsapp",
-        "tooltip": "WhatsApp: +123 456 7890",
-        "link": "https://wa.me/1234567890"
+        "tooltip": "WhatsApp: +549 260 4354219",
+        "link": "https://wa.me/5492604354219"
     }
 ]

@@ -2,31 +2,64 @@
   "profilePic": "img/foto.jpg",
   "name": "Sundermann Mauricio",
   "position": "Soporte técnico en el area de tecnologías celulares",
-  "email": "mauriciosundermann@gmail.com",
-  "phone": "+549 260 4354219",
-  "description": "Descripción breve sobre ti o tus objetivos.",
+  "footeremail": "mauriciosundermann@gmail.com",
+  "footertelefono":"+549 260 4354219",
+  "description": "Profesional dinámico y proactivo, con una sólida formación en la reparación técnica de dispositivos móviles, orientado a la excelencia en el servicio y la mejora continua. Posee una marcada habilidad para adaptarse y adoptar innovaciones tecnológicas, asegurando soluciones efectivas y modernas. Destaca por su actitud positiva hacia el aprendizaje y desarrollo profesional, manteniéndose actualizado en las últimas tendencias tecnológicas del sector. Su enfoque integral combina habilidades técnicas, innovación y compromiso con la satisfacción del cliente.",
   "experience": [
     {
-      "jobTitle": "Puesto de Trabajo",
-      "company": "Nombre de la Empresa",
-      "dates": "Mes/Año - Mes/Año",
+      "jobTitle": "Soporte técnico y Recepción",
+      "company": "Octacel San Rafael",
+      "dates": "julio/2021 - actualidad",
       "responsibilities": [
-        "Responsabilidad o logro 1.",
-        "Responsabilidad o logro 2.",
-        "Responsabilidad o logro 3."
+        "Reparaciones en general de dispositivo moviles y afines.",
+        "Atención al cliente, manejo de caja, facturación.",
+        "Administración de deposito, realización de pedidos y ajustes de Stock.",
+        "Capacitación a personal sobre procesos técnicos y herramientas tecnológicas."
+      ]
+    },
+    {
+      "jobTitle": "Soporte técnico e instalaciones",
+      "company": "Macroseguridad",
+      "dates": "febrero/2016 - julio/2021",
+      "responsibilities": [
+        "Instalación, configuración y capacitación de sistemas de alarmas y videovigilancia.",
+        "Soporte técnico e innovaciones en sistemas tecnológicos afines, servidores y software.",
+        "Gestión de cobranzas y venta de servicios."
+      ]
+    },
+    {
+      "jobTitle": "Soporte técnico y satisfacción",
+      "company": "Scantech",
+      "dates": "febrero/2012 - Febrero/2013",
+      "responsibilities": [
+        "Instalación y capacitación de Software de gestión de autoservicios.",
+        "Instalación y gestión de sistemas Linux.",
+        "Capacitación personal y remota a clientes."
       ]
     }
   ],
   "education": [
     {
-      "degree": "Título o Certificación",
-      "institution": "Nombre de la Institución",
-      "date": "Mes/Año"
+      "degree": "Curso de Programación en Java",
+      "institution": "Instituto Santisima Trinidad",
+      "date": "Septiembre/2022"
+    },
+    {
+      "degree": "Tecnicatura Superior en Programación",
+      "institution": "Universidad Tecnológica Nacional",
+      "date": "Febrero/2006"
+    },
+    {
+      "degree": "Bachiller con Orientación Físico Matemático",
+      "institution": "Esc. Normal Superior",
+      "date": "Enero/2002"
     }
   ],
   "skills": [
-    "Habilidad 1",
-    "Habilidad 2",
-    "Habilidad 3"
+    "Desarrollo de Software (Lenguaje Java) - Spring Boot - Patrones de diseño",
+    "Administración de base de Datos (MySQl - MariaDB)",
+    "Diseño y maquetación Web (HTML5 - CSS)",
+    "Soporte técnico, configuración e Instalación de herramientas Informáticas",
+    "Manejo y gestión de Herramientas de Ofimática"
   ]
 }
